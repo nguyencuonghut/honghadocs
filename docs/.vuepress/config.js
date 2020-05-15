@@ -9,8 +9,17 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: 'Trang chủ', link: '/' },
-      { text: 'Hướng dẫn', link: '/guides/' },
+      {
+        text: 'Hướng dẫn', items: [
+            { text: 'Phần mềm cân ACS', link: '/guides/acs/'},
+            { text: 'Phần mềm DMS', link: '/guides/dms/'},
+            { text: 'Phần mềm kế toán Bravo', link: '/guides/bravo/'},
+
+        ]
+    }
+
     ],
+    /*
     sidebar: [
       {
         title: 'Trang chủ',
@@ -25,8 +34,16 @@ module.exports = {
         children: [
           '/guides/',
           '/guides/acs/',
+          '/guides/dms/',
+          '/guides/bravo/',
         ]
       }
     ],
+    */
+   sidebarDepth: 2,    // extract to h3
+   sidebar: 'auto',
+   lastUpdated: 'Last Updated',
+   searchMaxSuggestions: 10,
+
   }
 }
