@@ -104,8 +104,14 @@ Theo quy trình cân khép kín, xe muốn vào nhập hàng cần được đă
 Người dùng đăng nhập vào phần mềm `iTruck`, click `Xe ra vào > Đăng ký xe nhập`:
 ![OpenDangKyNhap](./OpenDangKyNhap.jpg)
 ### Đăng ký vào
-
-
+Trên giao diện `Đăng ký xe nhập`, nút tròn ở mục `Xe đã vào`, nhân viên Bảo Vệ cần điền đầy đủ `Biển số`, `Lái xe` và chọn hợp đồng trong danh mục. Cuối cùng ấn nút `Tạo mới` để hoàn thành.
+![Nhap_DangKyVao](./Nhap_DangKyVao.jpg)
+::: warning
+- `Biển số`: yêu cầu ngăn cách giữa phần `Mã tỉnh thành` và phần `Số` bằng dấu gạch giữa `-`.
+- `Lái xe`: yêu cầu viết Tiếng Việt có dấu, phía sau ghi số điện thoại lái xe.
+:::
+Trường hợp Bảo Vệ muốn sửa thông tin đã đăng ký, click vào xe đã được đăng ký, tiếp theo sửa các giá trị và ấn nút `Lưu phiếu` để cập nhật lại.
+![Nhap_SuaDangKyvao](./Nhap_SuaDangKyVao.jpg)
 ### Đăng ký ra
 ## Đăng ký xe xuất
 
