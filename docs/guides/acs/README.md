@@ -110,11 +110,20 @@ Trên giao diện `Đăng ký xe nhập`, nút tròn ở mục `Xe đã vào`, n
 - `Biển số`: yêu cầu ngăn cách giữa phần `Mã tỉnh thành` và phần `Số` bằng dấu gạch giữa `-`.
 - `Lái xe`: yêu cầu viết Tiếng Việt có dấu, phía sau ghi số điện thoại lái xe.
 :::
+
+### Đăng ký ra
+
+### Sửa đăng ký
+Vì một số nguyên nhân, thông tin đăng ký có thể bị sai:
+- Sai biển số xe.
+- Sai thông tin lái xe.
+
 Trường hợp Bảo Vệ muốn sửa thông tin đã đăng ký, click vào xe đã được đăng ký, tiếp theo sửa các giá trị và ấn nút `Lưu phiếu` để cập nhật lại.
 ![Nhap_SuaDangKyvao](./Nhap_SuaDangKyVao.jpg)
-### Đăng ký ra
+
 ## Đăng ký xe xuất
 
 ## Cân nhập
 
 ## Cân xuất
+

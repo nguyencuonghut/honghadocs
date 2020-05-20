@@ -1,1 +1,1 @@
-# Phần mềm DMS.
+# Phần mềm DMS

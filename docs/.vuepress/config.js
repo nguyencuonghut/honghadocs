@@ -19,7 +19,7 @@ module.exports = {
     }
 
     ],
-    /*
+
     sidebar: [
       {
         title: 'Trang chủ',
@@ -39,11 +39,14 @@ module.exports = {
         ]
       }
     ],
-    */
-   sidebarDepth: 2,    // extract to h3
-   sidebar: 'auto',
-   lastUpdated: 'Last Updated',
-   searchMaxSuggestions: 10,
+    sidebarDepth: 3,    // extract to h4
 
+    /*
+      sidebarDepth: 2,    // extract to h3
+      sidebar: 'auto',
+    */
+  
+    lastUpdated: 'Last Updated',
+    searchMaxSuggestions: 10,
   }
 }
