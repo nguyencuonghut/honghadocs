@@ -126,4 +126,16 @@ Trường hợp Bảo Vệ muốn sửa thông tin đã đăng ký, click vào x
 ## Cân nhập
 
 ## Cân xuất
+Tính năng cân xuất hàng được sử dụng trong các trường hợp sau:
+- Cân xuất thành phẩm.
+- Cân xuất nguyên liệu để sản xuất, cân bán phế liệu ...
+
+Sau khi đăng nhập vào chương trình cân `ViTrukWeight` với tài khoản được cấp, người dùng click vào mục `Phiếu cân > Phiếu cân xuất`.
+![OpenExport](./OpenExport.jpg)
+Giao diện module cân xuất như bên dưới:
+![ExportUI](./ExportUI.jpg)
+
+### Cân xuất thành phẩm
+
+### Cân xuất khác (cân nguyên liệu sản xuất, cân bán phế liệu ...)
 
