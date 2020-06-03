@@ -1,8 +1,10 @@
 # Giới thiệu
-Đây là website nội bộ tổng hợp các hướng dẫn sử dụng phần mềm công ty cổ phần dinh dưỡng Hồng Hà.
+Đây là website tổng hợp các hướng dẫn sử dụng phần mềm công ty cổ phần dinh dưỡng Hồng Hà.
 Các phần mềm bao gồm:
 - Phần mềm cân ACS.
-- Phần mềm hỗ trợ nhân viên kinh doanh DMS.
+- Phần mềm hỗ trợ kinh doanh DMS.
+- Phần mềm họp trực tuyến Zoom.
+- Phần mềm kế toán Bravo.
 
 ## Tính năng
 Trang web chứa các hướng dẫn dưới dạng text và video cho các phần mềm bao gồm:

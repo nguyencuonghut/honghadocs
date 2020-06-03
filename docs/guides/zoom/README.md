@@ -53,7 +53,7 @@ Người tham gia không cần phải đăng ký tài khoản Zoom.
 Muốn tham gia vào một cuộc họp nào đó, người tham gia (Client) chỉ cần biết ID và Password của cuộc họp.
 
 ## Tạo cuộc họp
-### Tạo ngay 1 cuộc họp
+### Tạo ngay cuộc họp
 - B1: Click vào biểu tượng `New Meeting`
 ![NewMeeting](./NewMeeting.jpg)
 - B2: Bật audio cho cuộc họp
@@ -69,5 +69,52 @@ Người tạo cuộc họp có thể mời người tham gia bằng 2 cách:
   * Gửi ID và Password của cuộc họp.
   * Gửi đường link cuộc họp.
 ### Tạo cuộc họp theo lịch
+- B1: Click vào `Schedule` như hình bên dưới.
+![ScheduleMeeting](./ScheduleMeeting.jpg)  
+Một giao diện thiết lập lịch họp sẽ tạo ra.
+- B2: Thiết lập các thông số của cuộc họp:
+  * Chủ đề cuộc họp.
+  * Thời gian bắt đầu.
+  * Độ dài cuộc họp (`Bản miễn phí chỉ được tối đa 40 phút cho họp nhóm).
+  * Múi giờ: `TimeZon` chọn `VietNam`.
+  * Mật khẩu vào cuộc họp.
+  * Kiểu lịch: chọn `Other Calendars`.
+::: warning
+Đối với người sử dụng Outlook để gửi/nhận mail thì chọn Calendar là `Outlook`.
+:::
+Sau đó ấn nút `Schedule` để hoàn thành.
+![ScheduleMeetingOption](./ScheduleMeetingOption.jpg)
+- B3: Gửi thông tin cuộc họp:
+Ấn nút `Copy to Clipboard` để lấy thông tin cuộc họp và gửi cho những người tham gia (Paste vào email hoặc Zalo ...)
+![SendScheduleMeeting](./SendScheduleMeeting.jpg)
 
 ## Tham gia vào cuộc họp
+### Client (người tham gia cuộc họp)
+  * Người tham gia cuộc họp nhận được lời mời chứa đường link cuộc họp (như bên dưới), chỉ cần click vào đường link đó là có thể tham gia cuộc họp.
+![ScheduleInvitation](./ScheduleInvitation.jpg)
+  * Trường hợp chỉ nhận được ID và Password của cuộc họp, người dùng ấn nút `Join a meeting`, sau đó điền `ID` và `Tên của bạn`, cuối cùng `Password`.
+![JoinMeeting](./JoinMeeting.jpg)
+
+Việc còn lại là chờ chủ cuộc họp chấp thuận cho bạn tham gia.
+### Host (Chủ cuộc họp)
+Cần thực hiện các việc sau:
+  * Start cuộc họp.
+  * Chấp thuận người tham gia: bằng cách ấn nút `Admit` khi có người muốn vào cuộc họp.
+![AdmitMeeting](./AdmitMeeting.jpg)
+
+## Tiện ích cuộc họp
+### Chia sẻ màn hình
+Người dùng có thể chia sẻ màn hình của mình cho toàn bộ mọi người cùng nhìn thấy.
+Cách thực hiện:
+- B1: Ấn nút `Share Screen` màu xanh.
+- B2: Chọn màn hình cần chia sẻ.
+Sau khi chia sẻ màn hình, người dùng có thể sử dụng tính năng `Annotation` để bôi màu, chú thích, dùng bút laser...
+![ShareScreen](./ShareScreen.jpg)
+Chi tiết, bạn có thể tham khảo video dưới đây.
+<iframe width="640" height="400" src="https://www.youtube.com/embed/YA6SGQlVmcA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Audio
+Chủ cuộc họp có thể bật/tắt audio của các thành viên tham gia bằng cách click `Manage Participants` > `Mute All`.
+
+### Video
+Người dùng có thể chia sẻ video với mọi người bằng cách ấn vào nút `Start Video`.
+![StartVideo](./StartVideo.jpg)
